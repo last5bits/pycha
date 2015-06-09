@@ -1,2 +1,2 @@
 # pycha
-Python Challenge
+Python Challenge http://www.pythonchallenge.com
